@@ -1,7 +1,7 @@
 # 💻 Codeforces Problem Solving Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programming;913+Rating+in+Just+3+Contests!;Solving+Standard+Algorithms;Road+to+Specialist+and+Beyond!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programming;CSE, BUET;913+Rating+in+Just+3+Contests!;Solving+Standard+Algorithms;Road+to+Specialist+and+Beyond!" alt="Typing SVG" />
 </p>
 
 ---
