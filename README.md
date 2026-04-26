@@ -1,7 +1,7 @@
 # 💻 Codeforces Problem Solving Journey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programming;CSE,+BUET;1140+Rating+in+Just+4+Contests!;Solving+Standard+Algorithms;Road+to+Specialist+and+Beyond!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programming;CSE,+BUET;1311+Rating+in+Just+5+Contests!;Solving+Standard+Algorithms;Road+to+Specialist+and+Beyond!" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Each folder is organized by problem set or contest ID to keep things clean:
 
 - [x] Participate in 3 Contests
 - [x] Reach 900+ Rating
-- [ ] Achieve **Newbie** status (1200+)
+- [x] Achieve **PUPIL** status (1200+)
 - [ ] Solve 100 Problems from the Problemset
 - [ ] Master Dynamic Programming basics
 
